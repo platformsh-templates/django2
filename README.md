@@ -1,10 +1,6 @@
 # Django 2 for Platform.sh
 
-<p align="center">
-<a href="https://console.platform.sh/projects/create-project?template=https://raw.githubusercontent.com/platformsh/template-builder/master/templates/django2/.platform.template.yaml&utm_content=django2&utm_source=github&utm_medium=button&utm_campaign=deploy_on_platform">
-    <img src="https://platform.sh/images/deploy/lg-blue.svg" alt="Deploy on Platform.sh" width="180px" />
-</a>
-</p>
+## WARNING: This template is no longer supported.
 
 This template deploys the Django 2 application framework on Platform.sh, using the gunicorn application runner.  It also includes a PostgreSQL database connection pre-configured.
 
